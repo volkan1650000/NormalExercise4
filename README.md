@@ -1,7 +1,5 @@
 ﻿# NormalExercise4
-This repository contains Java exercises focused on fundamental concepts like patterns, string manipulation, and array operations.
-
-Exercises
+ 
 Class 1 - Butterfly Pattern
 Description: Generates a butterfly pattern with the specified length.
 
